@@ -1,10 +1,10 @@
 ﻿Nacin pokretanja:
-	1)	Aplikaciju mozemo pokrenuti pritiskom na f5 posto su podeseni defaultni ulazni argumenti za nju (2021-03-13 2021-03-15 EUR)
-	2)	Mozemo je pokrenuti i preko cmd ili powerShell-a ali je onda potrebno da unesemo ulazne argumente
-		Ulazni parametri su u sledecem formatu i moraju se uneti tacno definisanim redosledom:
-		start: "2021-03-13"
-		end: "2021-03-15"
-		currency: "EUR"
+	1) Pre pokretanja aplikacije potrebno je restorovati nuget pakete
+	2) Aplikaciju mozemo pokrenuti iz visual studija ali je potrebno uneti command line arguments u debug sesiji.
+	3) Aplikaciju mozemo pokrenuti i preko cmd ili poverShell-a ali je takodje potrbno uneti ulazne parametre.
+	4) Ulaznu paramatri su npr:
+		2021-03-13 2021-03-15 EUR
+		i oznacavaju redom start date, end data i currency
 
 
 Nacin implementacije:
