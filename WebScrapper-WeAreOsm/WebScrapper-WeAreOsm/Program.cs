@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using HtmlAgilityPack;
+using System.Net.Http;
 
 namespace Web_Scraper
 {
@@ -10,6 +9,9 @@ namespace Web_Scraper
 	{
 		static void Main(string[] args)
 		{
+			Startup.Run(args[0], args[1], args[2]);
+			Console.ReadLine();
 		}
+		
 	}
 }

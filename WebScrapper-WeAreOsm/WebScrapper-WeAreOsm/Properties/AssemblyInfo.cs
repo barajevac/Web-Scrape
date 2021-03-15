@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Web-Scraper")]
+[assembly: AssemblyTitle("WebScrapper-WeAreOsm")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Web-Scraper")]
+[assembly: AssemblyProduct("WebScrapper-WeAreOsm")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ac1ca100-5618-4ae9-b7ad-9d6611fb7d2b")]
+[assembly: Guid("0cb6d3cc-d90d-4a31-a9dd-61f28c2d64e1")]
 
 // Version information for an assembly consists of the following four values:
 //

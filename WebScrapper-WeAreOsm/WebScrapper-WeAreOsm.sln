@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-Scraper", "Web-Scraper\Web-Scraper.csproj", "{AC1CA100-5618-4AE9-B7AD-9D6611FB7D2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrapper-WeAreOsm", "WebScrapper-WeAreOsm\WebScrapper-WeAreOsm.csproj", "{0CB6D3CC-D90D-4A31-A9DD-61F28C2D64E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC1CA100-5618-4AE9-B7AD-9D6611FB7D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC1CA100-5618-4AE9-B7AD-9D6611FB7D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC1CA100-5618-4AE9-B7AD-9D6611FB7D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC1CA100-5618-4AE9-B7AD-9D6611FB7D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB6D3CC-D90D-4A31-A9DD-61F28C2D64E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB6D3CC-D90D-4A31-A9DD-61F28C2D64E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB6D3CC-D90D-4A31-A9DD-61F28C2D64E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB6D3CC-D90D-4A31-A9DD-61F28C2D64E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1C583FF5-0C69-4958-A496-46C30B72ECB2}
+		SolutionGuid = {FA1C5114-E9F8-4F3A-90E6-9F29DC76B465}
 	EndGlobalSection
 EndGlobal
